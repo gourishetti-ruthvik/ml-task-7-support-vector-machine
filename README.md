@@ -62,9 +62,9 @@ These were chosen because they significantly influence tumor classification base
 
 ## 📂 Project Structure
 
-├── data/
-│ └── breast_cancer.csv
-├── support_vector_machine.ipynb
+├── data/  
+│ └── breast_cancer.csv  
+├── support_vector_machine.ipynb  
 └── README.md  
 
 
